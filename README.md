@@ -1,4 +1,4 @@
-![Boxplot Grafiği](bigdata/images/boxplot.jpg)
+![Boxplot Grafiği](images/boxplot.jpg)
 
 ![Histogram Grafiği](images/histogram.jpg)
 
